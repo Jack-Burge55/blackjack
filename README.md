@@ -6,7 +6,7 @@ This is a small project I made that automatically plays blackjack against a deal
 
 To run please ensure you have an up to date Node version. Then once the repo has been cloned, do the following:
 
+- npm i
 - cd src
-- npm run i
 - npm run dev
 - Click on the generated local host link to run this project locally
