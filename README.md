@@ -1,4 +1,4 @@
-# Welcome to the Casino!
+ # ♥️♠️♣️♦️ Welcome to the Oxbury Casino! ♥️♠️♣️♦️
 
 This is a small project I made that automatically plays blackjack against a dealer followinng some predefined rules. I built this in react with TypeScript using Vite, with some quick styling from tailwind.css added
 
